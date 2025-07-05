@@ -47,6 +47,12 @@ I’m a full-stack web developer and AI tinkerer passionate about crafting impac
 ![Leaflet](https://img.shields.io/badge/-Leaflet.js-black?style=flat-square&logo=leaflet)
 
 ---
+### ⚙️ Architecture & State
+
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand&logoColor=white)
+![Context API](https://img.shields.io/badge/-Context%20API-black?style=flat-square&logo=react)
+
+---
 
 ### 🤖 AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
