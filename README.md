@@ -9,13 +9,12 @@
 
 ---
 
-### 🧰 Frameworks & Libraries
+### 🧰 Frontend Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Leaflet](https://img.shields.io/badge/-Leaflet.js-black?style=flat-square&logo=leaflet)
 
 ---
 
@@ -30,11 +29,13 @@
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
 
 ---
 
@@ -48,9 +49,7 @@
 ### 📡 APIs & Integrations
 - ✅ RESTful API Design & Consumption
 - 🗣️ Whisper (Speech Recognition)
-- 🧠 OpenAI GPT / LLMs
-- ☁️ Third-party services:
-  - Cloudinary
-  - SendGrid
-  - Google Maps
-  - EmailJS
+- ☎️ Twilio (SMS & Call APIs)
+- 🧠 OpenAI GPT Models
+- 🗺️ Leaflet.js / OpenStreetMap
+- ☁️ Google Cloud Services
