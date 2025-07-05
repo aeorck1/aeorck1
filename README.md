@@ -1,9 +1,9 @@
 ## 🧠 Skills & Tools
 
-### 👨‍💻 Languages
+### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
@@ -12,14 +12,14 @@
 ### 🧰 Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ---
 
-### 🧪 AI & Machine Learning
+### 🤖 AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 ![Whisper API](https://img.shields.io/badge/-Whisper_API-black?style=flat-square&logo=openai)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
@@ -38,15 +38,19 @@
 
 ---
 
-### 🧑‍🏫 Databases
+### 🧑‍🎓 Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
 
-### 📡 API & Integration
-- REST APIs
-- Whisper (Speech Recognition)
-- OpenAI GPT Models
-- Third-party services: Cloudinary, SendGrid, Google Maps, etc.
+### 📡 APIs & Integrations
+- ✅ RESTful API Design & Consumption
+- 🗣️ Whisper (Speech Recognition)
+- 🧠 OpenAI GPT / LLMs
+- ☁️ Third-party services:
+  - Cloudinary
+  - SendGrid
+  - Google Maps
+  - EmailJS
