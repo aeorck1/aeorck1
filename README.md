@@ -15,7 +15,7 @@
 
 # 👋 Hi, I'm Godwin Daniel
 
-I’m a full-stack web developer and AI tinkerer passionate about crafting impactful tech. I specialize in building platforms that improve lives — from student management systems to AI-enhanced tools that solve real problems.
+I’m a full-stack Software Developer and AI tinkerer passionate about crafting impactful tech. I specialize in building platforms that improve lives — from student management systems to AI-enhanced tools that solve real problems.
 
 ---
 
